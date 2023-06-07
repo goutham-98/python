@@ -1,2 +1,3 @@
 # python-IPL Data Analysis
-python data analytics
+python data analytics for IPL data
+
